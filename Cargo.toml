@@ -1,0 +1,8 @@
+[package]
+name = "fibsrv"
+version = "0.1.0"
+authors = ["Timothy Perrett"]
+
+[dependencies]
+iron = "0.6.0"
+time = "0.1.39"
