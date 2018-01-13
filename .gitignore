@@ -1,3 +1,5 @@
 
 /target/
 **/*.rs.bk
+src/messages.rs
+.DS_Store
